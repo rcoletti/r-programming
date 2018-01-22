@@ -1,0 +1,12 @@
+getwd()
+getwd()
+x<-1
+print(x)
+x
+msg <- "hello"
+msg
+x<-1:20
+x
+2+2
+2+2
+2+7
